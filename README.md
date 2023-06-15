@@ -1,9 +1,11 @@
 # rent-v-buy
 
 
-We have been hired as a Fintech data analyst at FTX. We will have to determine where to move to next. FTX has offices in 10 cities across the US. We get to select one to move to, the question is which one makes the most fiscal sense to move to. We need to determine if we should purchase a home with a mortgage on various terms or rent our new home in your selected city.
+When selecting a new city to move to, the question is oftem: "which one makes the most fiscal sense?"
 
-To help determine what we should do, use the Rent-v-Buy app. The app uses current housing data and specific inputs to determine if we should Rent or Purchase our new home in our city of choice. In order to make the best choice we will be presented with the total estimated cost of mortgage of our home purchase and our cost incurred from renting a home for our selected city.
+This will help compare the pricing details on renting or buying a home, with various mortgage terms considered.
+
+The app uses current housing data and specific inputs to determine if we should Rent or Purchase our new home in our city of choice. In order to make the best choice we will be presented with the total estimated cost of mortgage of our home purchase and our cost incurred from renting a home for our selected city.
 
 
 
@@ -36,9 +38,9 @@ Note there are two 'entry points' to our project
 ### The Tkinter Gui
 To begin this application open our File "gui_notebook.ipynb" in jupyter notebook. Run the cell containing the code, then maximize the Tkinter window that opens. This creates a pop out GUI where we are presented with our first step.
 
-Step 1: Select the city we are moving to, the dropdown menu displays 10 cities that can be selected from
+Step 1: Select the city; the dropdown menu displays 10 cities that can be selected from
 
-        Pick a city we would like to move to in our new role at FTX
+        Pick a city we would like to move toX
 
 Step 2: Click on Page 1 to continue, here the GUI displays a various data points related to the city we selected
         
